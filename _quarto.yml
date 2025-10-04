@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Carlotta Pacifici"
+  site-url: https://pacica.github.io
+  description: "Personal website of Carlotta Pacifici, research assistant in statistics at Bocconi University in Milan."
+  search: false
+  navbar:
+    pinned: true
+    background: "#0072ce"
+    right:
+      - icon: github
+        href: https://github.com/pacica
+
+format:
+  html:
+    theme:
+       - html/custom.scss
+
+
+
+csl: institute-of-mathematical-statistics.csl
+bibliography: pub.bib
+
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: it
+    text: "IT"
+  - name: fr
+    text: "FR"
+  - name: en
+    text: "EN"
+  mainlanguage: 'en'
+  languages: ['it', 'fr']
+title-it: Carlotta Pacifici
+title-fr: Carlotta Pacifici
+description-it: "Sito web di Carlotta Pacifici, assegnista di ricerca all'Università Bocconi di Milano."
+description-fr: "Site web de Carlotta Pacifici, chercheuse en statistique à l'Université Bocconi de Milan."
+author-it: Carlotta Pacifici
+author-fr: Carlotta Pacifici
+lang: en

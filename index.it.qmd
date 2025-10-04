@@ -1,0 +1,29 @@
+---
+toc: true
+toc-title: "Sections"
+nocite: |
+  @*
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![](image/headshot.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+Benvenuti! Sono una ricercatrice all'[Universita Bocconi](https://dec.unibocconi.eu/) di Milano dove lavoro con il Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). La mia attività di ricerca riguarda la statistica dei valori estremi, nello specifico lo sviluppo di modelli per serie storiche e di regressione, e anche la stima della densità predittiva nel paradigma bayesiano. I miei interessi nell'ambito applicato rivolgono particolare attenzione ad applicazioni ambientali e finanziarie.
+
+
+:::
+
+:::
+
+Ho ottenuto il Dottorato in statistica presso l'[University of Bologna](https://stat.unibo.it/it/index.html) ad aprile 2025, sotto la supervisione del Prof. [Luca Trapin](https://sites.google.com/site/lucatrapin/home). Durante la mia tesi, ho anche effettuato un periodo di ricerca di un anno a [HEC Montréal](https://www.hec.ca/) dove ho lavorato con la Prof.ssa [Debbie Dupuis](https://www.hec.ca/profs/debbie.dupuis.html).
+
+### Pubblicazioni
+
+
+::: {#refs}
+:::

@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter,wght@0,300;0,600;1,400;1,600&display=swap');
+
+/* HEC color palette */
+$nero:  #000000 !default;
+$melanzana:  #614051 !default;
+$grigio: #ADADAD !default;
+$verde: #416251 !default;
+
+
+$primary:       $melanzana !default;
+$secondary:     $verde !default;
+$success:       $melanzana !default;
+$info:          $verde !default;
+$warning:       $grigio !default;
+$danger:        $nero !default;
+
+
+
+$font-family-sans-serif:      Inter, sans-serif !default;
+$font-family-serif:           Arial, serif !default; 
+
+$font-size-base:              1.25rem !default;
+$headings-font-weight:        700 !default;
+
+$h1-font-size: $font-size-base * 1.7;
+$h2-font-size: $font-size-base * 1.6;
+$h3-font-size: $font-size-base * 1.4;
+$h4-font-size: $font-size-base * 1.2;
+$h5-font-size: $font-size-base * 1;
+$h6-font-size: $font-size-base * 0.8;
+
+$toc-font-size: 1.1rem;
+$sidebar-font-size: 1.1rem;
+$sidebar-font-size-section: 0.9rem;
+
+$navbar-bg: $melanzana;
+$navbar-fg: #ffffff;
+$navbar-hl: $grigio;
+$link-color: $melanzana;
+$link-hover-color: $grigio;
+$code-color: $grigio;
+$code-bg: lighten($grigio, 90%);
+$monokai-bg: #2e3440;
+
+
+
+/*-- scss:rules --*/
+h2 {
+  border-bottom: none;
+}
+
+
+// Home page stuff
+.title-block {
+  margin: 1em 0;
+  border-bottom: 3px solid $gray-200;
+  padding-bottom: 1em;
+}
+
+
+// Footer stuff
+.nav-footer-left {
+  text-align: left;
+}
+
+.nav-footer-right {
+  text-align: right;
+}
+
+
+// Schedule stuff
+.content-title {
+  font-weight: 700;
+}
+
+
+// Content page stuff
+// Date bar
+
+
+// Slightly larger buttons
+p a.btn, .buttons span.btn {
+  font-size: 1.2rem;
+}
+
+// No space after lists-within-lists
+main {
+  ol ol,
+  ul ul,
+  ol ul,
+  ul ol {
+    margin-bottom: 0em;
+  }
+}
+
+
+#toc-title {
+  font-weight: 700;
+}
+
+
+
+.bg-content {
+  background-color: $melanzana;
+  padding-left: 0.5rem;
+}
+#TOC {
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 0.5em;
+  padding-top: 1em;
+  background-color: lighten($melanzana, 60%);
+}
+
+// Code stuff
+// Shrink blocks of code
+pre.text, pre.sourceCode, .cell-output pre {
+  font-size: 0.775em;
+}
+
+// Slight bottom margin to output
+.cell-output {
+  margin: 0 0 1em;
+}
+
+// Remove margin on pre in output
+.cell-output pre {
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+// Format output and plain text blocks like code
+.cell-output, pre.text {
+  border: none;
+  padding: .4em;
+  background-color: $monokai-bg;
+  border: 1px solid $monokai-bg;
+  border-radius: .25rem;
+}
+
+pre.text {
+  color: #ffffff;
+}
+
+p {
+  text-align: justify;
+}

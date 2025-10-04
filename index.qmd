@@ -1,0 +1,32 @@
+---
+toc: true
+toc-title: "Sections"
+nocite: |
+  @*
+---
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![](image/headshot.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+Welcome! I am currently a researcher at [Bocconi University](https://dec.unibocconi.eu/) in Milan working with Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). My area of expertise is statistics of extremes, notably the development of time series and regression models for extremes, and on Bayesian predictive density estimation. My applied research interests revolve around environmental and financial applications.
+
+:::
+
+:::
+
+
+I obtained my PhD in statistics from the [University of Bologna](https://stat.unibo.it/en/index.html) in April 2025, working under the supervision of Prof. [Luca Trapin](https://sites.google.com/site/lucatrapin/home). During my thesis, I also spent a year as visiting student at [HEC Montréal](https://www.hec.ca/en) working with Prof. [Debbie Dupuis](https://www.hec.ca/en/profs/debbie.dupuis.html).
+
+
+
+### Publications
+
+
+::: {#refs}
+:::
