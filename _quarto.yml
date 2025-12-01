@@ -20,7 +20,7 @@ format:
 
 
 
-csl: institute-of-mathematical-statistics.csl
+csl: ims.csl
 bibliography: pub.bib
 
 babelquarto:

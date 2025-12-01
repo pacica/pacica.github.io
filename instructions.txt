@@ -1,0 +1,14 @@
+# To compile, see instructions here
+# https://docs.ropensci.org/babelquarto/articles/babelquarto.html
+# after installing babelquarto. Then, open a console in R in the parent folder (Faculty applications) and render with
+babelquarto::render_website("pacica.github.io")
+
+--> there should be a hidden .git folder
+git add --all # track the changes
+
+
+Then, commit via: git commit -m "My message"
+and git push
+
+
+
