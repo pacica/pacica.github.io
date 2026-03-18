@@ -1,10 +1,7 @@
 ---
 toc: true
 toc-title: "Sections"
-nocite: |
-  @*
 ---
-
 
 ::: {.grid}
 
@@ -14,19 +11,30 @@ nocite: |
 
 ::: {.g-col-12 .g-col-md-6}
 
-Welcome! I am currently a researcher at [Bocconi University](https://dec.unibocconi.eu/) in Milan working with Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). My area of expertise is statistics of extremes, notably the development of time series and regression models for extremes, and on Bayesian predictive density estimation. My applied research interests revolve around environmental and financial applications.
+Welcome! I am currently a postdoctoral researcher at [Bocconi University](https://dec.unibocconi.eu/) in Milan working with Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). My area of expertise is statistics of extremes, notably the development of time series and regression models for extremes, and on Bayesian predictive density estimation. My applied research interests revolve around environmental and financial applications.
 
 :::
 
 :::
-
 
 I obtained my PhD in statistics from the [University of Bologna](https://stat.unibo.it/en/index.html) in April 2025, working under the supervision of Prof. [Luca Trapin](https://sites.google.com/site/lucatrapin/home). During my thesis, I also spent a year as visiting student at [HEC Montréal](https://www.hec.ca/en) working with Prof. [Debbie Dupuis](https://www.hec.ca/en/profs/debbie.dupuis.html).
 
-
-
 ### Publications
 
-
 ::: {#refs}
+
+1. Pacifici, C., Padoan, S. A., & Mysiak, J. (2025). [*Predicting hazards of climate extremes: a statistical perspective*](https://doi.org/10.1093/jrsssc/qlaf061). Journal of the Royal Statistical Society: Series C (Applied Statistics).
+
+2. Dupuis, D. J., Pacifici, C., & Trapin, L. (2026). *A dynamic model for extreme hourly precipitation*. Environmetrics (to appear).
+
+3. Dupuis, D. J., Pacifici, C., & Trapin, L. (2025). *Approximate filtering and smoothing in State Space Extreme value models*. Submitted to Extremes (first round, revision requested).
+
+4. Pacifici, C., & Trapin, L. (2025). *Monitoring time-varying tail risk with the Extended Generalized Pareto distribution*. Submitted to Journal of Financial Econometrics (first round, revision requested).
+
+5. Barile, F., Dallari, S., Pacifici, C., & Grün, B. (2025). [*Assessing Neuron Response to External Stimuli with a Data-Driven Procedure for Spike Train Extraction and GAMLSS Regressions*](https://doi.org/10.1007/978-3-031-70638-7). In *Advances in Neural Data Science. Proceedings of the Data Research Camp 2022, July 12–15*. Springer, pp. 1–17. Venice, Italy.
+
+6. Pacifici, C., & Alaimo, L. S. (2020). *Analisi delle Componenti Principali*. In *Ragionando di Sviluppo Locale: una Lettura “Nuova” di Tematiche “Antiche”*. Franco Angeli s.r.l., Milano, pp. 404–417.
+
+7. Barbato, M., & Pacifici, C. (2019). *Il Valore Umano: Oltre il capitale*. In *AIQUAV 2019: VI Convegno nazionale dell'Associazione italiana per gli studi sulla qualità della vita: benessere collettivo e scelte individuali*. Genova University Press, pp. 213–221. Fiesole, Italy.
+
 :::
