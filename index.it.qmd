@@ -13,7 +13,7 @@ nocite: |
 
 ::: {.g-col-12 .g-col-md-6}
 
-Benvenuti! Sono una ricercatrice all'[Universita Bocconi](https://dec.unibocconi.eu/) di Milano dove lavoro con il Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). La mia attività di ricerca riguarda la statistica dei valori estremi, nello specifico lo sviluppo di modelli per serie storiche e di regressione, e anche la stima della densità predittiva nel paradigma bayesiano. I miei interessi nell'ambito applicato rivolgono particolare attenzione ad applicazioni ambientali e finanziarie.
+Benvenuti! Sono una ricercatrice postdoc all'[Universita Bocconi](https://dec.unibocconi.eu/) di Milano dove lavoro con il Prof. [Simone Padoan](https://faculty.unibocconi.it/simonepadoan/). La mia attività di ricerca riguarda la statistica dei valori estremi, nello specifico lo sviluppo di modelli per serie storiche e di regressione, e anche la stima della densità predittiva nel paradigma bayesiano. I miei interessi nell'ambito applicato rivolgono particolare attenzione ad applicazioni ambientali e finanziarie.
 
 
 :::
